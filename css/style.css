@@ -1,0 +1,9 @@
+h1, h2, h3, h4{
+    text-align:center;
+}
+
+body{
+    background-image: url("../Images/java1.png");
+    background-repeat:no-repeat;
+    background-position:550px 250px;
+}
